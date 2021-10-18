@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Michael and I'm a web developer; he/him.
 
 <!--
 **MWDelaney/MWDelaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
